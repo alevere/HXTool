@@ -9,7 +9,7 @@
 		}
 	},
 	"network": {
-		"ssl": "enabled",
+		"ssl": "disabled",
 		"port": 8080,
 		"listen_address": "0.0.0.0",
 		"session_timeout": 30
